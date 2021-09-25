@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "child-process": "latest",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "latest",
+    "pg-connection-string": "latest",
+    "prompt": "latest",
+    "uuid": "latest"
+  }
+}

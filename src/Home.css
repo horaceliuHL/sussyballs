@@ -1,0 +1,9 @@
+.theme:hover {
+    opacity: 0.78;
+    cursor: pointer;
+}
+
+.difficultyButton:hover {
+  opacity: 0.83;
+  cursor: pointer;
+}
